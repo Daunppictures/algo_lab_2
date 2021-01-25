@@ -17,8 +17,12 @@ Output: 3
 # Instalation
 
 Use the git to install lab code
-`https://github.com/Daunppictures/algo_lab_2.git`
+```bash
+https://github.com/Daunppictures/algo_lab_2.git
+```
 
 # Usage
 In command line use python
-`python main.py`
+```bash
+python main.py
+```
